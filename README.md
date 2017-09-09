@@ -1,4 +1,4 @@
-# swc_2017-09-09
+# swc_hlt_2017
 Software Carpentry Workshop
 
 ## Table of Contents
