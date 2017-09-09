@@ -5,6 +5,6 @@ Software Carpentry Workshop
 1. Bash lessons learned
 2. Github
 3. Atmosphere cloud computing
-  - Atmo is great!
+  - Atmo is great but challenging!
 4. Python and Jupyter notebooks
 
